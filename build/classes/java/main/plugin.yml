@@ -1,0 +1,15 @@
+# Auto-generated plugin.yml, generated at 2023/04/28 13:59:36 by org.bukkit.plugin.java.annotation.PluginAnnotationProcessor
+
+main: me.EmeraldTip.Emessentials.Main
+name: Emessentials
+version: 0.0.1
+description: Garbage essentials plugin
+author: Emerald_tip
+prefix: Emessentials
+commands: {}
+permissions:
+  emessentials.*:
+    children:
+      emessentials.info: true
+      emessentials.admin: true
+      emessentials.fly: true
